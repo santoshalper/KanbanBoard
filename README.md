@@ -10,7 +10,7 @@ The website is deployed at https://kanbanboard-cljj.onrender.com/.
 If you are testing locally, run the commands "npm run build" and "npm run start:dev" to test the website.
 
 ## Usage
-![1](assets/1.png)
+![1](assets/1.PNG)
 When loading the page, the user is directed to the page above. By clicking the login button in the top right corner, the user is forwarded to the login subpage form.<br><br>
 
 ![2](assets/2.PNG)
